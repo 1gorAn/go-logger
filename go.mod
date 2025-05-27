@@ -1,4 +1,4 @@
-module github.com/1gorAn/logger
+module github.com/1gorAn/go-logger
 
 go 1.23.4
 
