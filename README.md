@@ -5,4 +5,4 @@
 ## Установка
 
 ```bash
-go get github.com/1gorAn/logger
+go get github.com/1gorAn/go-logger@v1.0.1  
